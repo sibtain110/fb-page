@@ -1,0 +1,59 @@
+.sec{
+    text-align: center;
+    border: 2px solid rgba(128, 128, 128, 0.437);
+    background-color: rgba(90, 88, 88, 0.105);
+    padding: 30px;
+    margin: 0% auto;
+    width: 300px;
+}
+.sec h1{
+    color: rgba(0, 42, 255, 0.914);
+    font-size: 40px;
+}
+.input input{
+    background-color: rgba(128, 128, 128, 0.162);
+    border-radius: 8px;
+    padding: 10px;
+    margin: 0px;
+    width: 70%;
+    margin-top: 15px;
+    border-color: rgba(128, 128, 128, 0.201);
+    
+}
+
+.button button{
+    background-color: rgba(0, 0, 255, 0.657);
+    padding: 10px;
+    width: 75%;
+    margin-top:15px ;
+    border: 2px solid rgba(128, 128, 128, 0.437);
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    cursor: pointer;
+
+}
+.span span{
+    color: rgba(0, 128, 0, 0.676);
+}
+
+.hooter{
+
+    display: flex;
+
+}
+.hooter hr{
+    width: 90px;
+}
+#button button{
+    padding: 15px;
+    width: 70%;
+    background-color: rgb(6, 103, 6);
+    color: white;
+    border-radius: 10px;
+    border-color: rgba(128, 128, 128, 0.149);
+    cursor: pointer;
+}
+.a a{
+    text-decoration: none;
+}
